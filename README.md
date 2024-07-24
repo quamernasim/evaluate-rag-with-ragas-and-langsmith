@@ -1,2 +1,4 @@
-# evaluate-rag-with-ragas
-This repo contains code for evaluating RAG application using LangChain, and RAGAS
+# Evaluate RAG with RAGAS, LangChain, and LLaMA3-Qdrant
+This repository contains code for evaluating the performance of RAG (Retrieval-Augmented Generator) applications using RAGAS (RAG Application Suite), LangChain, and LLaMA3-Qdrant.
+
+# Overview
