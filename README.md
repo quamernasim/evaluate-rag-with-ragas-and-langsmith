@@ -1,5 +1,5 @@
 # Evaluate RAG with RAGAS, LangChain, and LLaMA3-Qdrant
-<img src="assets/hero.png" width="100%">
+<img src="assets/RAG Evaluation.png" width="100%">
 
 This repository contains a Jupyter Notebook designed to evaluate the performance of the Retrieval-Augmented Generation (RAG) model. The evaluation is conducted by comparing the model's responses to a set of predefined questions against ground truth answers. The questions are specifically related to the Llama model, a series of language models developed by Meta AI.
 
